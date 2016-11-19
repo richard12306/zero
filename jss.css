@@ -1,0 +1,50 @@
+.Bodystyle{	background-repeat: no-repeat;
+          	overflow: hidden;
+          	background-image: url(旅行1.jpg);
+      		background-size: 100% 290%;
+      		}
+.Welcome{position: relative;
+	    font-size: 100%;
+		color:gray;
+		left: 120%;
+	    top:150%;
+	    left: 700px;
+	    top:200px;}
+.Enter{ position: relative;
+		font-size: 120%;
+		color: gray;
+		left:700px;
+		top: 120px;}
+.Form2{ position: relative;
+		left: 700px;
+		top: 300px;
+		width: 50%;
+		height: 80%;
+		font-size: 130%;
+		border: 0px;
+		margin: 0 auto; }
+.Form1{ position: relative;
+		left: 700px;
+		top:300px;
+		width: 150%;
+		height: 80%;
+		font-size: 130%;
+		border: 0px;
+		margin: 0 auto;  }
+.Button{position: relative;
+		left: 870px;
+		top:300px;
+		font-size: 20px;
+		color:white;
+		background-color: green;
+		width:300px;
+		height: 50px;
+		border-width: 0px;
+		border-radius: 3px;
+		background-color: #005737;
+		background-image: linear-gradient(#005737)}
+.Visit{	position: relative;
+		left: 700px;
+		top: 500px;
+		color: white;
+		}
